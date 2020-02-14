@@ -11,7 +11,7 @@ class App extends Component {
         <div className="root">
           <Header />
           <TodoList />
-            <h3> Umair Branch 1000 lines of code 004</h3>
+            <h3>Corrected New Code</h3>
         </div>
       </Provider>
     );
