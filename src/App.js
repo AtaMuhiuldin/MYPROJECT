@@ -12,6 +12,7 @@ class App extends Component {
           <Header />
           <TodoList />
           <h1>hellow from umair 001</h1>
+          <h2>hellow from amd 001</h2>
         </div>
       </Provider>
     );
