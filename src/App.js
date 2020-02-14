@@ -11,9 +11,6 @@ class App extends Component {
         <div className="root">
           <Header />
           <TodoList />
-        
-
-
 
 
 
@@ -24,6 +21,8 @@ class App extends Component {
         
 
 
+
+            <h3>Corrected New Code</h3>
 
         </div>
       </Provider>
